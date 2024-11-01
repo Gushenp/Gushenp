@@ -39,7 +39,7 @@
 
 ---
 
-<h2">💡 Sobre Mim</h2>
+<h2>💡 Sobre Mim</h2>
 <ul>
   <li>Tenho focado no desenvolvimento web desde 2020, explorando tanto o front-end quanto o back-end.</li>
   <li>Busco oportunidades de colaboração e projetos freelancer, onde valorizo habilidades como comunicação eficaz, paciência e trabalho em equipe.</li>
