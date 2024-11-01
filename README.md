@@ -12,12 +12,13 @@ Olá, me chamo Gustavo! Sou estudante de desenvolvimento web e suas vertentes.
 <h2>🛠️ Minhas Qualificações e Cursos</h2>
 
 <p><strong>Técnico em Redes de Computadores</strong></p>
-- Instituição: CPET (Centro de Profissionalização e Educação Técnica)
-- Conclusão: Cursando
+-Instituição: CPET (Centro de Profissionalização e Educação Técnica)
+
+-Conclusão: Cursando
 
 <p><strong>Técnico em Eletrônica</strong></p>
-- Instituição: CPET (Centro de Profissionalização e Educação Técnica)
-- Conclusão: Cursando
+-Instituição: CPET (Centro de Profissionalização e Educação Técnica)
+-Conclusão: Cursando
 
 <h2>🚀 Tecnologias e Ferramentas</h2>
 <p><strong>Linguagens:</strong> HTML, CSS, JavaScript, Python</p>
