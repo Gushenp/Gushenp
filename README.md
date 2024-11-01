@@ -11,9 +11,9 @@
 
 ---
 
-<h2 align="center">🛠️ Minhas Qualificações e Cursos</h2>
+<h2>🛠️ Minhas Qualificações e Cursos</h2>
 
-<ul align="center">
+<ul>
   <li><strong>Técnico em Redes de Computadores</strong>
     <ul>
       <li>Instituição: CPET (Centro de Profissionalização e Educação Técnica)</li>
@@ -31,30 +31,30 @@
 
 ---
 
-<h2 align="center">🚀 Tecnologias e Ferramentas</h2>
-<ul align="center">
+<h2>🚀 Tecnologias e Ferramentas</h2>
+<ul>
   <li><strong>Linguagens:</strong> HTML, CSS, JavaScript, Python</li>
   <li><strong>Ferramentas:</strong> Git, GitHub, Visual Studio Code</li>
 </ul>
 
 ---
 
-<h2 align="center">💡 Sobre Mim</h2>
-<ul align="center">
+<h2">💡 Sobre Mim</h2>
+<ul>
   <li>Tenho focado no desenvolvimento web desde 2020, explorando tanto o front-end quanto o back-end.</li>
   <li>Busco oportunidades de colaboração e projetos freelancer, onde valorizo habilidades como comunicação eficaz, paciência e trabalho em equipe.</li>
 </ul>
 
 ---
 
-<h2 align="center">📈 Estatísticas do GitHub</h2>
+<h2>📈 Estatísticas do GitHub</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gushenp&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Gustavo Henrique"/>
 </div>
 
 ---
 
-<div align="center">
+<div>
   <h2>🌐 Vamos nos conectar?</h2>
   <p>
     <a href="https://www.linkedin.com/in/seu-usuario">LinkedIn</a> • 
